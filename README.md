@@ -1,6 +1,8 @@
 # tab
 网页组件常用切换tab效果
 
+ # 插件演示[演示效果Demo](http://js66.github.io/tab/)
+
 #step1
 ~~~
     <script src="js/jquery-1.4.2.min.js"></script>
